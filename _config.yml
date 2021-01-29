@@ -1,7 +1,7 @@
-locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
+locale: "it-IT"
+title: Davide Chen # Title of your site
+url: "http://grade0.github.io" # the base hostname & protocol for your site
+baseurl: "/homepage" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem

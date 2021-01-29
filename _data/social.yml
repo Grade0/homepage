@@ -10,3 +10,7 @@
   link: 'https://www.instagram.com/no_problem_zz/'
   social_icon: Instagram
   new_window: true
+- name: Facebook
+  link: 'https://www.facebook.com/davide.chen.31'
+  social_icon: Facebook
+  new_window: true

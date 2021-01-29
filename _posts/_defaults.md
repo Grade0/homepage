@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Hello World
+title:
 categories:
 date:
 ---
-
-Lorem ipsum 

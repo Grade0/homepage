@@ -17,6 +17,7 @@ My curriculum is also available in [PDF](https://github.com/lucacorbucci/lucacor
 
 ## <font color="#49bf9d">Education</font>
 
+
 #### Università di Pisa <span style="float:right; text-align:center">Now</span>
 
 Bachelor Degree in Computer Science
@@ -57,3 +58,4 @@ During my bachelor degree I attended two database classes, the first one was a t
 although I had some experience in Python programming during my Bachelor degree I learned Python mostly by self taught and practicing it by developing an easy command-line Tic-Tac-Toe game for now.
 
 <hr>
+<br><br>

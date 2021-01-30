@@ -14,44 +14,44 @@ comments: false
 
 My curriculum is also available in [PDF](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_EN.pdf). (Click [Here](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_IT.pdf) for the italian version).
 
-# <font color="#49bf9d">Education</font><br><br>
-
-### Università di Pisa <span style="float:right; text-align:center">Now</span>
+## <font color="#49bf9d">Education</font>
+<br>
+#### Università di Pisa <span style="float:right; text-align:center">Now</span>
 
 Bachelor Degree in Computer Science
 
 
-### University College Dublin <span style="float:right; text-align:center">2020</span>
+#### University College Dublin <span style="float:right; text-align:center">2020</span>
 
 ERASMUS Echange Program
 
 
-### I.S.I.S. Einaudi-Giordano <span style="float:right; text-align:center">2016</span>
+#### I.S.I.S. Einaudi-Giordano <span style="float:right; text-align:center">2016</span>
 
 High School Diploma in Administration, Finance and Marketing
 
 
-# <font color="#49bf9d">Programming Skills</font>
+## <font color="#49bf9d">Programming Skills</font>
 
-### C
+#### C
 
 Good knowledge of C and programming language. I studied C during my bachelor degree, where I had the opportunity to practice a lot on the assignments of Programming 1, Algorithms and data structures, Unix Programming classes (covering topics like Trees, Graph, Locks, Condition Variables, Thread, Socket,...)
 
-### Java
+#### Java
 
 I studied Java during my Bachelor degree and during the years I improved my knowledge developing some projects.
 I used Java to implement a multi thread server and many assignments (covering topics like OOP, Inheritance, Dynamic Dispatch, Exceptions, Java Collection Framework, Generics, Monitor, Selector, NIO, Thread-pool, RMI, TCP, UDP, ...)
 
-### HTML, CSS, Javascript, PHP
+#### HTML, CSS, Javascript, PHP
 
 I learned HTML, CSS, JavaScipt and a little bit of PHP when I attended the "Web Design" Class, during my Erasmus exchange in University College Dublin. 
 I developed a fully working webpage as final project. 
 
-### ORACLE PL/SQL and Database
+#### ORACLE PL/SQL and Database
 
 During my bachelor degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As final project me and my team have built a full-stack web-application for an hypothetical e-commerce for brewers. I learned a lot from that project because I enhance some soft-skill like <b>team-working</b>, <b>Communication</b> and <b>Agile software development</b>, 
 
-### Python
+#### Python
 
 although I had some experience in Python programming during my Bachelor degree I learned Python mostly by self taught and practicing it by developing an easy command-line Tic-Tac-Toe game for now.
 

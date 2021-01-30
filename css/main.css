@@ -2084,6 +2084,11 @@
 				width: 100%;
 			}
 
+			.pl_logo {
+				width: 50px;
+				height: 50px;
+			}	
+
 /* List */
 
 	ol {

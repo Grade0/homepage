@@ -59,7 +59,7 @@ although I had some experience in Python programming during my Bachelor degree I
 
 #### OCaML
 
-I learned OCaML as part of the "Programming 2" class' program about <b><u>functional programming</u></b>. With OCaML I learned how this paradigm is closely connected to the <b><u>recursion</u></b> and the use of concepts such as <b><u>partial evaluation of functions</u></b>. As project I designed and developed an <b><u>basic interpreter</u></b> in Ocaml allows you to manipulate dictionaries in addition to primitive data types.
+I learned OCaML as part of the "Programming 2" class' program about <b><u>functional programming</u></b>. With OCaML I learned how this paradigm is closely connected to the <b><u>recursion</u></b> and the use of concepts such as <b><u>partial evaluation of functions</u></b>. As project I designed and developed an <b><u>basic interpreter</u></b> in Ocaml that allows you to manipulate dictionaries in addition to primitive data types.
 
 <br>
 <hr>

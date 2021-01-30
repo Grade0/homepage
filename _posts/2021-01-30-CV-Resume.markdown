@@ -13,8 +13,9 @@ comments: false
 
 
 My curriculum is also available in [PDF](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_EN.pdf). (Click [Here](https://github.com/lucacorbucci/lucacorbucci.github.io/raw/master/Curriculum/Curriculum_IT.pdf) for the italian version).
+<br>
 
-## <font color="#5B9BD5">Education</font>
+## <font color="#5B9BD5"><u>Education</u></font>
     
     
 #### Università di Pisa <span style="float:right; text-align:center">Now</span>
@@ -30,9 +31,9 @@ ERASMUS Echange Program
 #### I.S.I.S. Einaudi-Giordano <span style="float:right; text-align:center">2016</span>
 
 High School Diploma in Administration, Finance and Marketing
+<br>
 
-
-## <font color="#5B9BD5">Programming Skills</font>
+## <font color="#5B9BD5"><u>Programming Skills</u></font>
 
 #### C
 
@@ -50,7 +51,7 @@ I developed a fully working webpage as final project.
 
 #### ORACLE PL/SQL and Database
 
-During my bachelor degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As final project me and my team have built a full-stack web-application for an hypothetical e-commerce for brewers. I learned a lot from that project because I enhance some soft-skill like <b>team-working</b>, <b>Communication</b> and <b>Agile software development</b>, 
+During my bachelor degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As final project me and my team have built a full-stack web-application for an hypothetical e-commerce for brewers. I learned a lot from that project because I enhance some soft-skill like <b><u>team-working</u></b>, <b><u>Communication</u></b> and <b><u>Agile software development</u></b>, 
 
 #### Python
 

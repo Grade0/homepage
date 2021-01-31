@@ -15,7 +15,7 @@ comments: false
 My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github.io/raw/gh-pages/curriculum/Curriculum%20vitae_EN.pdf). (Click [Here](https://github.com/Grade0/grade0.github.io/raw/gh-pages/curriculum/Curriculum%20vitae_IT.pdf) for the italian version).
 <br><br>
 
-<h2 style="font-size: 28px; color:#5B9BD5;"><u>Programming Skills</u></h2>
+<h2 style="font-size: 28px; color:#5B9BD5;"><u>Education</u></h2>
 <p></p>
     
 <div class="twc_row">
@@ -37,7 +37,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
     <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/ucd_logo.svg" style="width:55px;">
   </div>
   <div class="cv_column2">
-    <h4>University College Dublin</h4>
+    <h3>University College Dublin</h3>
     <span>ERASMUS+ Echange Program</span>
   </div>
   <div class="cv_column3">
@@ -51,7 +51,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
     <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/logo-repubblica.svg" style="width:55px;">
   </div>
   <div class="cv_column2">
-    <h4>I.S.I.S. Einaudi-Giordano</h4>
+    <h3>I.S.I.S. Einaudi-Giordano</h3>
     <span>High School Diploma in Administration, Finance and Marketing</span>
   </div>
   <div class="cv_column3">

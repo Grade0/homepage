@@ -15,8 +15,8 @@ comments: false
 My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github.io/raw/gh-pages/curriculum/Curriculum%20vitae_EN.pdf). (Click [Here](https://github.com/Grade0/grade0.github.io/raw/gh-pages/curriculum/Curriculum%20vitae_IT.pdf) for the italian version).
 <br><br>
 
-<h2 style="font-size: 28px; color=#5B9BD5; padding-bottom: 5px;"><u>Programming Skills</u></h2>
-    
+<h2 style="font-size: 28px; color:#5B9BD5;"><u>Programming Skills</u></h2>
+<p></p>
     
 <div class="twc_row">
   <div class="cv_column1">
@@ -60,7 +60,8 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 </div>
 <p></p>
 
-<h2 style="font-size: 28px; color=#5B9BD5; padding-bottom: 5px;"><u>Programming Skills</u></h2>
+<h2 style="font-size: 28px; color:#5B9BD5;"><u>Programming Skills</u></h2>
+<p></p>
 
 #### C
 

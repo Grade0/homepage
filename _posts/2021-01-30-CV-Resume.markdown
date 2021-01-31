@@ -60,16 +60,6 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 </div>
 <p></p>
 
-#### University College Dublin <span style="float:right; text-align:center">2020</span>
-
-ERASMUS Echange Program
-
-
-#### I.S.I.S. Einaudi-Giordano <span style="float:right; text-align:center">2016</span>
-
-High School Diploma in Administration, Finance and Marketing
-<br><br>
-
 ## <font color="#5B9BD5"><u>Programming Skills</u></font>
 
 #### C

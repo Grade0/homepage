@@ -58,7 +58,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
       <span><b>2016</b></span>
   </div> 
 </div>
-<p></p>
+<br>
 
 <h2 style="font-size: 26px; color:#5B9BD5;">Programming Skills</h2>
 <p></p>

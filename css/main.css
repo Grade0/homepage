@@ -2088,7 +2088,21 @@
 				width: 80px;
 				height: 80px;
 				margin-legt: 10px;
-			}	
+			}
+
+/* Two Equal Columns */
+	
+	.twc_column {
+		 float: left;
+		 width: 50%;
+		 padding: 10px;
+	}
+	
+	.twc_row:after {
+		content: "";
+  		display: table;
+  		clear: both;
+	}
 
 /* List */
 

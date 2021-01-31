@@ -2103,7 +2103,8 @@
 	}
 	.cv_column3 {
 		float: right;
-		width: 35px;
+		width: 50px;
+		text-align: right;
 		font-size: 18px;
 		padding-top: 10px;
 	}

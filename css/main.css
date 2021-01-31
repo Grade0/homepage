@@ -2103,7 +2103,8 @@
 	}
 	.cv_column3 {
 		float: right;
-		 width: 50px;
+		width: 35px;
+		font-size: 18px;
 	}
 
 	.twc_column {

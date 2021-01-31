@@ -1608,7 +1608,7 @@
 		}
 
 	h1 {	
-		color: 5B9BD5;
+		color: 5B9BD5 !important; 
 		font-size: 34px;
 		line-height: 1.5em;
 	}

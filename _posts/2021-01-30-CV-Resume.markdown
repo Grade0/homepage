@@ -66,15 +66,15 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 <div class="ed_no_logo"> 
     
 <h4 style="display: inline-block;">Universit&agrave; di Pisa</h4> <span style="float:right; text-align:center"><b>Now</b></span>
-<span>Bachelor Degree in Computer Science</span>
-<br>
+<br><span>Bachelor Degree in Computer Science</span>
+<br><br>
 
 <h4 style="display: inline-block;">University College Dublin</h4> <span style="float:right; text-align:center"><b>2020</b></span>
-<span>ERASMUS+ Exchange Program</span>
-<br>
+<br><span>ERASMUS+ Exchange Program</span>
+<br><br>
 
 <h4 style="display: inline-block;">I.S.I.S. Einaudi-Giordano</h4> <span style="float:right; text-align:center"><b>2016</b></span>
-<span>High School Diploma in Administration, Finance and Marketing</span>
+<br><span>High School Diploma in Administration, Finance and Marketing</span>
 
 </div>
 <br>

@@ -3,27 +3,28 @@ layout: post
 ---
 
 ## University (Projects and Assignments)
+<p></p>
 
-### "Programming 2" Class Project I - University of Pisa
+#### "Programming 2" Class Project I - University of Pisa
 
 <b>Target:</b> The project aims to apply the concepts and techniques of Object-Oriented programming examined during the course.    
 <br>
 <b>Description:</b> You are required to design, implemente and document the collection Databoard<E extends Data >. The Databoard<E extends Data> collection is a container of generic objects that extend the data type Data. Intuitively, the collection acts as a space for storing and displaying data that can be of various types but that must implement the display() method. The board must[...] [[GitHub](https://github.com/Grade0/PR2_Project-JAVA)]
 <br>    
  
-### "Programming 2" Class Project II - University of Pisa
+#### "Programming 2" Class Project II - University of Pisa
  
 <b>Target:</b> The project aims to apply the concepts and techniques of Functional programming examined during the course.  
  
 <b>Description:</b> Design and development of an interpreter in Ocaml that allows you to manipulate dictionaries in addition to primitive data types. [[GitHub](https://github.com/Grade0/PR2_Project-OCaML)]
  
-### "Web Design" Class Project - ERASMUS+ Exchange @ University College Dublin
+#### "Web Design" Class Project - ERASMUS+ Exchange @ University College Dublin
  
 <b>Target:</b> Design and implement a website
  
 <b>Description:</b> [[PDF](https://github.com/Grade0/WD_Project/raw/main/COMP20030-Project-2020.pdf)] [[GitHub](https://github.com/Grade0/WD_Project)]
  
-### "Database Laboratory" Class Team Project - University of Pisa
+#### "Database Laboratory" Class Team Project - University of Pisa
  
 <b>Target:</b> Construction of an ORACLE database complete with analysis, data design and implementation of procedures and interface for the web application 'Una Cervecita Fresca'.
   
@@ -33,12 +34,19 @@ layout: post
   
 [[GitHub](https://github.com/Grade0/LR_Assignments)]
   
-### "Unix Programming" Class Assignments - ERASMUS+ Exchange @ University College Dublin
+#### "Unix Programming" Class Assignments - ERASMUS+ Exchange @ University College Dublin
 
 [[GitHub](https://github.com/Grade0/UP_Assignments]
 
-## Personal 
+<br>
+<hr>
 
-### An easy command-line Tic-Tac-Toe game
+## Personal 
+<p></p>
+#### An easy command-line Tic-Tac-Toe game
 
 [[GitHub](https://github.com/Grade0/TicTacToe-Game]
+
+<br>
+<hr>
+<br>

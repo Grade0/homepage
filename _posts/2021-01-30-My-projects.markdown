@@ -2,7 +2,9 @@
 layout: post
 ---
 
-## University (Projects and Assignments)
+The following are some of my projects and assignments that I carried out during my studies at the Univeristy. All the codes are available on my [GitHub](https://github.com/Grade0).
+
+[## University (Projects and Assignments)
 <p></p>
 
 #### <u>"Programming 2" Class Project I - University of Pisa</u>

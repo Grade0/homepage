@@ -27,7 +27,7 @@ The following are some of my projects and assignments that I carried out during 
 - <b>Description:</b> [[PDF](https://github.com/Grade0/WD_Project/raw/main/COMP20030-Project-2020.pdf)] [[GitHub](https://github.com/Grade0/WD_Project)]
  
 #### <u>"Database Laboratory" Class Team Project - University of Pisa</u>
-- <b>Programming language:</b> PL/SQL
+- <b>Programming language:</b> ORACLE PL/SQL
 - <b>Target:</b> Construction of an ORACLE database complete with analysis, data design and implementation of procedures, and interface for the web application 'Una Cervecita Fresca'.
 - <b>Description:</b> "Una Cervecita Fresca" is an application that allows amateur brewers to maintain an organized database of their beer recipes. The application allows users to create, store and edit recipes, [...] [[GitHub](https://github.com/Grade0/LBD_TeamProject)]
   

@@ -6,10 +6,9 @@ layout: post
 <p></p>
 
 #### "Programming 2" Class Project I - University of Pisa
-
-<p style="padding-left: 10px;"><b>Target:</b> The project aims to apply the concepts and techniques of Object-Oriented programming examined during the course.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Target:</b> The project aims to apply the concepts and techniques of Object-Oriented programming examined during the course.
 <br>
-<b>Description:</b> You are required to design, implemente and document the collection Databoard<E extends Data>. The Databoard<E extends Data> collection is a container of generic objects that extend the data type Data. Intuitively, the collection acts as [...] [[GitHub](https://github.com/Grade0/PR2_Project-JAVA)] 
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Description:</b> You are required to design, implemente and document the collection Databoard<E extends Data>. The Databoard<E extends Data> collection is a container of generic objects that extend the data type Data. Intuitively, the collection acts as [...] [[GitHub](https://github.com/Grade0/PR2_Project-JAVA)] 
 <br>    
  
 #### "Programming 2" Class Project II - University of Pisa

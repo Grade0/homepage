@@ -1,5 +1,7 @@
 ---
 layout: post
+title: My project
+date: 2021-02-01
 ---
 
 The following are some of my projects and assignments that I carried out during my studies at the Univeristy. All the codes are available on my [GitHub](https://github.com/Grade0).

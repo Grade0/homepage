@@ -2,14 +2,43 @@
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae. 
+## University (Projects and Assignments)
 
-Vestibulum id metus eu nisl sodales consectetur. Phasellus et ultrices lacus.
+### "Programming 2" Class Project I - University of Pisa
 
-Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<b>Target:</b> The project aims to apply the concepts and techniques of Object-Oriented programming examined during the course.    
+<br>
+<b>Description:</b> You are required to design, implemente and document the collection Databoard<E extends Data >. The Databoard<E extends Data> collection is a container of generic objects that extend the data type Data. Intuitively, the collection acts as a space for storing and displaying data that can be of various types but that must implement the display() method. The board must[...] [[GitHub](https://github.com/Grade0/PR2_Project-JAVA)]
+<br>    
+ 
+### "Programming 2" Class Project II - University of Pisa
+ 
+<b>Target:</b> The project aims to apply the concepts and techniques of Functional programming examined during the course.  
+ 
+<b>Description:</b> Design and development of an interpreter in Ocaml that allows you to manipulate dictionaries in addition to primitive data types. [[GitHub](https://github.com/Grade0/PR2_Project-OCaML)]
+ 
+### "Web Design" Class Project - ERASMUS+ Exchange @ University College Dublin
+ 
+<b>Target:</b> Design and implement a website
+ 
+<b>Description:</b> [[PDF](https://github.com/Grade0/WD_Project/raw/main/COMP20030-Project-2020.pdf)] [[GitHub](https://github.com/Grade0/WD_Project)]
+ 
+### "Database Laboratory" Class Team Project - University of Pisa
+ 
+<b>Target:</b> Construction of an ORACLE database complete with analysis, data design and implementation of procedures and interface for the web application 'Una Cervecita Fresca'.
+  
+<b>Description:</b> "Una Cervecita Fresca" is an application that allows amateur brewers to maintain an organized database of their beer recipes. The application allows users to create, store and edit recipes, and then [...] [[GitHub](https://github.com/Grade0/LBD_TeamProject)]
+  
+### "Network Programming" Class Assignments - University of Pisa
+  
+[[GitHub](https://github.com/Grade0/LR_Assignments)]
+  
+### "Unix Programming" Class Assignments - ERASMUS+ Exchange @ University College Dublin
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+[[GitHub](https://github.com/Grade0/UP_Assignments]
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+## Personal 
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+### An easy command-line Tic-Tac-Toe game
+
+[[GitHub](https://github.com/Grade0/TicTacToe-Game]

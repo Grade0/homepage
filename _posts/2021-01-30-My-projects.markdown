@@ -23,7 +23,7 @@ The following are some of my projects and assignments that I carried out during 
  
 #### <u>"Web Design" Class Project - ERASMUS+ Exchange @ University College Dublin</u>
 - <b>Programming language:</b> HTML, CSS, JavaScript, PHP
-- <b>Target:</b> Design and implement a website
+- <b>Target:</b> Design and implement a responsive website
 - <b>Description:</b> [[PDF](https://github.com/Grade0/WD_Project/raw/main/COMP20030-Project-2020.pdf)] [[GitHub](https://github.com/Grade0/WD_Project)]
 - <b>See the [[DEMO](https://davidechen.it/WD_Project/)]</b>
  

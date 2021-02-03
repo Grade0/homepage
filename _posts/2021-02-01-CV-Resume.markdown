@@ -107,7 +107,7 @@ Good knowledge of C and programming language. I studied C during my bachelor deg
 I studied Java during my Bachelor degree and during the years I improved my knowledge developing some projects.
 I used Java to implement a multi thread server and many assignments (covering topics like OOP, Inheritance, Dynamic Dispatch, Exceptions, Java Collection Framework, Generics, Monitor, Selector, NIO, Thread-pool, RMI, TCP, UDP, ...)
 
-#### HTML, CSS, Javascript, PHP
+#### HTML, CSS, JavaScript, PHP
 
 I learned HTML, CSS, JavaScipt and a little bit of PHP when I attended the "Web Design" Class, during my Erasmus exchange in University College Dublin. 
 I developed a fully working webpage as final project. 

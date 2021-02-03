@@ -6,7 +6,7 @@ date: 2021-01-30
 
 The following are some of my projects and assignments that I carried out during my studies at the Univeristy. All the codes are available on my [GitHub](https://github.com/Grade0).
 
-<img src="https://github.com/Grade0/grade0.github.io/blob/gh-pages/images/pic01.jpg" class="fit image">
+<img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pic01.jpg" class="fit image">
 
 
 <hr>

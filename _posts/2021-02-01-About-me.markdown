@@ -24,16 +24,18 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
   </div>
 </div>
 
-<div class="row">
-  <article class="col-6 col-12-xsmall work-item">
-    <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" alt="Phoenix Park, Dublin - IRELAND" /></a>
-    <h3>Phoenix Park, Dublin - IRELAND</h3>
-  </article>
-  <article class="col-6 col-12-xsmall work-item">
-    <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" alt="Phoenix Park, Dublin - IRELAND" /></a>
-    <p>Phoenix Park, Dublin - IRELAND</p>
-  </article>
- </div>
+<section id="two">
+  <div class="row">
+    <article class="col-6 col-12-xsmall work-item">
+      <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" alt="Phoenix Park, Dublin - IRELAND" /></a>
+      <h3>Phoenix Park, Dublin - IRELAND</h3>
+    </article>
+    <article class="col-6 col-12-xsmall work-item">
+      <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" alt="Phoenix Park, Dublin - IRELAND" /></a>
+      <p>Phoenix Park, Dublin - IRELAND</p>
+    </article>
+   </div>
+</section>
 <!--<img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" title="Phoenix Park, Dublin - IRELAND" class="fit image">-->
 
 <br>

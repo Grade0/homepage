@@ -34,7 +34,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
   <article class="col-6 col-12-xsmall work-item">
     <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" alt="Pyramid of Giza, Cairo - EGYPT" /></a>
     <h3>Pyramid of Giza, Cairo - EGYPT</h3>
-    <span> Aug <sup>nd</sup>, 2018</span>
+    <span> Aug 2<sup>nd</sup>, 2018</span>
   </article>
  </div>
 

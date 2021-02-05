@@ -42,22 +42,6 @@
 		-webkit-text-size-adjust: none;
 	}
 
-
-	/* Paste this css to your style sheet file or under head tag */
-	/* This only works with JavaScript,
-	if its not present, dont show loader */
-	.no-js #loader { display: none;  }
-	.js #loader { display: block; position: absolute; left: 100px; top: 0; }
-	.se-pre-con {
-	  position: fixed;
-	  left: 0px;
-	  top: 0px;
-	  width: 100%;
-	  height: 100%;
-	  z-index: 10;
-	  background: url(https://smallenvelop.com/wp-content/uploads/2014/08/Preloader_11.gif) center no-repeat #fff;
-	}
-
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1625,13 +1609,13 @@
 
 	h1 {	
 		color: #5B9BD5; 
-		font-size: 2.25em;
+		font-size: 36em;
 		line-height: 1.5em;
 	}
 
 	h2 {
 		color: #5B9BD5; 
-		font-size: 1.75em;
+		font-size: 28em;
 		line-height: 1.5em;
 	}
 

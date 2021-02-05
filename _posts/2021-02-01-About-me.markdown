@@ -28,13 +28,13 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
 <div id="two" class="row">
   <article class="col-6 col-12-xsmall work-item">
     <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" alt="Phoenix Park, Dublin - IRELAND" /></a>
-    <h3>Phoenix Park, Dublin - IRELAND</h3>
-    <span> Feb 23<sup>th</sup>, 2020</span>
+    <h3 style="display: inline-block">Phoenix Park, Dublin - IRELAND</h3> &nbsp;
+    <span>23<sup>th</sup> Feb 2018</span>
   </article>
   <article class="col-6 col-12-xsmall work-item">
     <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" alt="Pyramid of Giza, Cairo - EGYPT" /></a>
-    <h3>Pyramid of Giza, Cairo - EGYPT</h3>
-    <span> Aug 2<sup>nd</sup>, 2018</span>
+    <h3 style="display: inline-block">Pyramid of Giza, Cairo - EGYPT</h3> &nbsp;
+    <span>2<sup>nd</sup> Aug 2018</span>
   </article>
  </div>
 

@@ -12,7 +12,7 @@ comments: false
     </p>
 
 
-My curriculum is also available in [PDF](/curriculum/Curriculum%20vitae_EN.pdf). (Click [Here](https://github.com/Grade0/grade0.github.io/raw/gh-pages/curriculum/Curriculum%20vitae_IT.pdf) for Italian version).
+My curriculum is also available in [PDF](/curriculum/Curriculum%20vitae_EN.pdf). (Click [Here](/curriculum/Curriculum%20vitae_IT.pdf) for Italian version).
 <br><br>
 
 <hr>

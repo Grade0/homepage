@@ -1337,6 +1337,11 @@
 			margin: 0 0 -1px -1.5em;
 		}
 
+		/* image in About */
+		.row > .col-12-xsmall {
+			width: 100%;
+		}
+
 		.row.uniform > * {
 			padding: 1.5em 0 0 1.5em;
 		}
@@ -2126,10 +2131,6 @@
 	/* Double column image in About */
 	.row > .col-6 {
 			width: 50%;
-	}
-
-	.row > .col-12-xsmall {
-		width: 100%;
 	}
 
 	

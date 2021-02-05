@@ -2123,6 +2123,17 @@
   		clear: both;
 	}
 
+	/* Double column image in About */
+	.row > .col-6 {
+			width: 50%;
+	}
+
+	.row > .col-12-xsmall {
+		width: 100%;
+	}
+
+	
+
 /* List */
 
 	ol {

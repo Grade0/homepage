@@ -5,7 +5,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
 
 <div class="twc_row">
   <div class="twc_column">
-    ## Hobby/Interests:
+    <h2 style="font-size: 1.2em"> Hobby/Interests:</h2>
     <ul>
       <li>Photography</li>
       <li>Travelling</li>
@@ -14,7 +14,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
     </ul>
   </div>
   <div class="twc_column">
-  ## Soft skills:
+  <h2 style="font-size: 1.2em"> Soft skills: </h2>
   <ul>
     <li>Team work</li>
     <li>Social skills</li>

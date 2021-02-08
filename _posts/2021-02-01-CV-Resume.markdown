@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CV/Resume
+title: CV / Resume
 tags: [about, curriculum]
 date: 2021-01-31
 comments: false

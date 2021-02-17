@@ -3223,3 +3223,15 @@
 			width: 50%;
 		}
  	}
+
+ 	@media screen and (max-width: 370px) {
+ 		.skills_double_columns {
+ 			display: none;
+ 		}
+ 	}
+
+ 	@media screen and (min-width: 370px) {
+ 		.skills_single_columns {
+ 			display: none;
+ 		}
+ 	}

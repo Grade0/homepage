@@ -114,7 +114,7 @@ I developed a fully working webpage as the final project.
 
 #### ORACLE PL/SQL and Database
 
-During my bachelor's degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As the final project my team and I have built a full-stack web-application for an hypothetical "e-commerce" for brewers. I learned a lot from that project because I enhance some soft-skill like <b><u>team-working</u></b>, <b><u>Communication</u></b> and <b><u>Agile software development</u></b>, 
+During my bachelor's degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As the final project my team and I have built a full-stack web-application for an hypothetical "e-commerce" for brewers. I learned a lot from that project because I enhance some soft-skill like <b>team-working</b>, <b>communication</b> and <b>Agile software development</b>, 
 
 #### Python
 
@@ -122,7 +122,7 @@ Although I had some experience in Python programming during my bachelor's degree
 
 #### OCaML
 
-I learned OCaML as part of the "Programming 2" class' program about <b><u>functional programming</u></b>. With OCaML I learned how this paradigm is closely connected to the <b><u>recursion</u></b> and the use of concepts such as <b><u>partial evaluation of functions</u></b>. As project I designed and developed an <b><u>basic interpreter</u></b> in Ocaml that allows you to manipulate dictionaries in addition to primitive data types.
+I learned OCaML as part of the "Programming 2" class' program about <b>functional programming</b>. With OCaML I learned how this paradigm is closely connected to the <b>recursion</b> and the use of concepts such as <b>partial evaluation of functions</b>. As project I designed and developed an <b>basic interpreter</b> in Ocaml that allows you to manipulate dictionaries in addition to primitive data types.
 
 #### Assembler D-RISC
 

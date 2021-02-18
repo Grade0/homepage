@@ -114,7 +114,7 @@ I developed a fully working webpage as the final project.
 
 #### ORACLE PL/SQL and Database
 
-During my bachelor's degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As the final project my team and I have built a full-stack web-application for an hypothetical "e-commerce" for brewers. I learned a lot from that project because I enhance some soft-skill like <b><u>team-working</u></b>, <b><u>communication</u></b> and <b><u>Agile software development</u></b>.
+During my bachelor's degree I attended two database classes, the first one was a theoretical course and the second was a practical course where we applied all the techniques learned from the previous one. As the final project my team and I have built a full-stack web-application for an hypothetical "e-commerce" for brewers. I learned a lot from that project and at the same time I've enhanced some soft-skill like <b><u>team-working</u></b>, <b><u>communication</u></b> and <b><u>Agile software development methology</u></b>.
 
 #### Python
 

@@ -10,3 +10,7 @@
   link: 'https://www.instagram.com/no_problem_zz/'
   social_icon: Instagram
   new_window: true
+- name: Twitter
+  link: 'https://twitter.com/davide_logc'
+  social_icon: Twitter
+  new_window: true

@@ -4,7 +4,7 @@ title: My Projects
 date: 2021-01-30
 ---
 
-The following are some of my projects and assignments that I carried out during my studies at the University. All the codes are available on my [GitHub](https://github.com/Grade0).
+The following are some of my projects and assignments that I carried out during my studies at the University. Some of the codes are available on my [GitHub](https://github.com/Grade0).
 
 <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/portfolio-2.jpg" class="fit image">
 
@@ -13,6 +13,13 @@ The following are some of my projects and assignments that I carried out during 
 
 ## University (Projects and Assignments)
 <p></p>
+
+#### <u>Samsung Innovation Campus - Smart Thing Edition 2021</u>
+<i>powered by Samsung Eletronics Italia in collaboration with University of Pisa</i>
+- <b>Target:</b> The aim of the project is to transfer to the students of STEM subjects the skills of conception, project management and problem solving; to integrate the knowledge acquired during the university course with an in-depth study on the application of technologies in the Internet of Things in the Consumer Electronics product market; to prepare students for professional integration
+- <b>Topics covered:</b> IoT Devices, Application Protocols for IoT, Smart Things & IoT Market, Peer-to-Peer Coaching, Job Preparation, AI Introduction, Machine Learning, Cybersecurity, Idea and Business Model Generation, Develop an AI Project
+- <b>Project Work: </b>The project work
+ it is proposed under directives of Vitesco Technologies (the local company that produces transmission and propulsion technologies for the automotive sector). It consists in developing, in teams, innovative ideas for the use and maintenance of Cobots (Collaborative-Robots with anthropomorphic characteristics) used in the company to carry out activities independently and interact with employees in complete safety. In particular, the creation of a Predictive Maintenance service based on a Machine Learning model with a Web-based interface in which, based on the data provided by Vitesco, it notifies the presence of anomalies and plans Cobot maintenance checks.
 
 #### <u>"Programming 2" Class Project I - University of Pisa</u>
 - <b>Programming language:</b> JAVA

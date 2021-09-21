@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Projects
-date: 2021-01-30
+date: 2021-09-18
 ---
 
 The following are some of my projects and assignments that I carried out during my studies at the University. Some of the codes are available on my [GitHub](https://github.com/Grade0).
@@ -17,8 +17,8 @@ The following are some of my projects and assignments that I carried out during 
 #### <u>Samsung Innovation Campus - Smart Thing Edition 2021</u>
 <p style="margin-bottom: 10px"><i>powered by Samsung Eletronics Italia in collaboration with University of Pisa</i></p>
 - <b>Award:</b> <i>"<u>Top 3 students</u>" as an individual in the overall rankings and "<u>The most innovative project</u>" as a team
-- <b>Target:</b> The aim of the project is to transfer to the students of STEM subjects the skills of conception, project management and problem solving; to integrate the knowledge acquired during the university course with an in-depth study on the application of technologies in the Internet of Things in the Consumer Electronics product market; to prepare students for professional integration
-- <b>Topics covered:</b> IoT Devices, Application Protocols for IoT, Smart Things & IoT Market, Peer-to-Peer Coaching, Job Preparation, AI Introduction, Machine Learning, Cybersecurity, Idea and Business Model Generation, Develop an AI Project
+- <b>Target:</b> Among the few selected for this Educational Path developed by Samsung in partnership with the University of Pisa at transferring to the students of STEM subjects the skills of conception, project management and problem-solving; to integrate the knowledge acquired during the university course with an in-depth study on the application of technologies in the Internet of Things in the Consumer Electronics product market and to prepare students for professional integration.
+- <b>Topics covered:</b> IoT Devices, Application Protocols for IoT, Smart Things & IoT Market, Peer-to-Peer Coaching, Job Preparation, AI Introduction, Machine Learning, Cybersecurity, Idea and Business Model Generation, Develop an AI Project.
 - <b>Project Work: </b>The project work is proposed on the directives of [Vitesco Technologies](https://www.vitesco-technologies.com/en-us) (a company in the area that produces transmission and propulsion technologies for the automotive sector). It consists in developing, in teams, innovative ideas for the use and maintenance of Cobots (Collaborative-Robots with anthropomorphic characteristics) used in the company to perform tasks independently and interact with employees in complete safety. In particular, it is required the realization of a Predictive Maintenance service based on a Machine Learning model with Web-based interface in which based on the data provided by Vitesco notifies the presence of anomalies and plan maintenance checks of Cobots.
 
 #### <u>"Programming 2" Class Project I - University of Pisa</u>
